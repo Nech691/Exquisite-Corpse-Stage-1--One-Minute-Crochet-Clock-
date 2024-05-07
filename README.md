@@ -37,7 +37,9 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 
 *Initially, I set out to define 120 variables, load 120 individual images, and push each into an empty array. However, halfway through, I realised there must be a better way, and ChatGPT explained how I could use a for loop to push all images at once instead of individually*
 *Next, I created two if/else loops to go through my images in order, showing 4 images per second until the 120th image, then displaying the images in descending order. I also added a function to get the milliseconds to be displayed as seconds [I did not use the seconds because then it resets at 60], and a function for each text element, as I wanted them to be in different sizes*
-*ChatGPT helped me create mt descending loop and helped correct my final poem [as I my old English is not at all up to date]*
+*ChatGPT helped me create my descending loop and helped correct my final poem [as my old English is not at all up to date]*
+
+*To upload the 120 files in my project to GitHub, I used Git Hub desktop and a **GitAttributes** file, then I added the images to my local clone and pushed it to the main depository online*
 
 
 ### 🟨 Stage 2
