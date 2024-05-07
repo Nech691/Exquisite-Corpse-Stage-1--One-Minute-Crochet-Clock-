@@ -31,7 +31,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟥 Stage 1
 - Name/Alias: N J R Echer 
 - Github account: Nech691
-- Published webpage for stage 1:
+- Published webpage for stage 1: **https://nech691.github.io/Exquisite-Corpse-Stage-1--One-Minute-Crochet-Clock-/**
 
 *For my stage I brief, I have settled on a crocheted clock, with 120 pictures (4 per second) of it while it is being made (in this case unmade - as that is easier to photograph), displaying the numbers (from 1 to 12) moving with the rows before settling in their place. Then, the clock images will rewind and reset so that my project takes 1 minute to complete its loop. Alongside, a numerical counter will also count the seconds from 0 to indicate seconds elapsed from being of sketch*
 
